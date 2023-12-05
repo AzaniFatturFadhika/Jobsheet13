@@ -1,3 +1,7 @@
+# Pratikum Dasar Pemrograman
+# Created By Azani Fattur Fahika
+# Politeknik Negeri Semarang
+
 def guess_number():
     secret_number = 9
     guess = 0

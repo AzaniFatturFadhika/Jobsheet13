@@ -1,3 +1,7 @@
+# Pratikum Dasar Pemrograman
+# Created By Azani Fattur Fahika
+# Politeknik Negeri Semarang
+
 def weight_conversion():
     berat = int(input("Masukkan berat anda > "))
     satuan = int(input("Dalam satuan apa berat yang anda masukkan > (K untuk KG, L untuk LBS) > "))
